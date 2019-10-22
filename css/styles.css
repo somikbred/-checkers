@@ -1,0 +1,148 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../DI\ 001-640x480.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: 48%;
+}
+
+div {
+    width: 4%;
+    height: 8%;
+    margin: auto;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.white {
+    background: #fff;
+}
+
+.black {
+    background: #000;
+}
+
+.B8 {
+    left: 34.5%;
+    top: 6.5%;
+}
+
+.D8 {
+    left: 45.3%;
+    top: 6.5%;
+}
+
+.F8 {
+    left: 56.2%;
+    top: 6.5%;
+}
+
+.H8 {
+    left: 67%;
+    top: 6.5%;
+}
+
+.A7 {
+    left: 29%;
+    top: 18%;
+}
+
+.C7 {
+    left: 39.8%;
+    top: 18%;
+}
+
+.E7 {
+    left: 50.7%;
+    top: 18%;
+}
+
+.G7 {
+    left: 61.5%;
+    top: 18%;
+}
+
+.B6 {
+    left: 34.5%;
+    top: 29%;
+}
+
+.D6 {
+    left: 45.3%;
+    top: 29%;
+}
+
+.F6 {
+    left: 56.2%;
+    top: 29%;
+}
+
+.H6 {
+    left: 67%;
+    top: 29%;
+}
+
+.A1 {
+    left: 29%;
+    bottom: 6.8%;
+}
+
+.C1 {
+    left: 39.8%;
+    bottom: 6.8%;
+}
+
+.E1 {
+    left: 50.7%;
+    bottom: 6.8%;
+}
+
+.G1 {
+    left: 61.5%;
+    bottom: 6.8%;
+}
+
+.B2 {
+    left: 34.5%;
+    bottom: 18%;
+}
+
+.D2 {
+    left: 45.3%;
+    bottom: 18%;
+}
+
+.F2 {
+    left: 56.2%;
+    bottom: 18%;
+}
+
+.H2 {
+    left: 67%;
+    bottom: 18%;
+}
+
+.A3 {
+    left: 29%;
+    bottom: 29%;
+    }
+    
+.C3 {
+    left: 39.8%;
+    bottom: 29%;
+}
+    
+.E3 {
+    left: 50.7%;
+    bottom: 29%;
+}
+    
+.G3 {
+    left: 61.5%;
+    bottom: 29%;
+}    
