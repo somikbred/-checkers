@@ -8,7 +8,12 @@ body {
     background-image: url(../DI\ 001-640x480.jpg);
     background-repeat: no-repeat;
     background-position: 50% 0;
-    background-size: 48%;
+    background-size: 40em;
+}
+.container {
+    width: 85.5em;
+    height: 40em;
+    position: absolute;
 }
 
 div {
@@ -28,7 +33,7 @@ div {
 }
 
 .B8 {
-    left: 34.5%;
+    left: 34.7%;
     top: 6.5%;
 }
 
@@ -38,37 +43,37 @@ div {
 }
 
 .F8 {
-    left: 56.2%;
+    left: 55.9%;
     top: 6.5%;
 }
 
 .H8 {
-    left: 67%;
+    left: 66.5%;
     top: 6.5%;
 }
 
 .A7 {
-    left: 29%;
+    left: 29.5%;
     top: 18%;
 }
 
 .C7 {
-    left: 39.8%;
+    left: 40%;
     top: 18%;
 }
 
 .E7 {
-    left: 50.7%;
+    left: 50.5%;
     top: 18%;
 }
 
 .G7 {
-    left: 61.5%;
+    left: 61.2%;
     top: 18%;
 }
 
 .B6 {
-    left: 34.5%;
+    left: 34.7%;
     top: 29%;
 }
 
@@ -78,37 +83,37 @@ div {
 }
 
 .F6 {
-    left: 56.2%;
+    left: 55.9%;
     top: 29%;
 }
 
 .H6 {
-    left: 67%;
+    left: 66.5%;
     top: 29%;
 }
 
 .A1 {
-    left: 29%;
+    left: 29.5%;
     bottom: 6.8%;
 }
 
 .C1 {
-    left: 39.8%;
+    left: 40%;
     bottom: 6.8%;
 }
 
 .E1 {
-    left: 50.7%;
+    left: 50.6%;
     bottom: 6.8%;
 }
 
 .G1 {
-    left: 61.5%;
+    left: 61.2%;
     bottom: 6.8%;
 }
 
 .B2 {
-    left: 34.5%;
+    left: 34.8%;
     bottom: 18%;
 }
 
@@ -118,31 +123,31 @@ div {
 }
 
 .F2 {
-    left: 56.2%;
+    left: 55.9%;
     bottom: 18%;
 }
 
 .H2 {
-    left: 67%;
+    left: 66.5%;
     bottom: 18%;
 }
 
 .A3 {
-    left: 29%;
+    left: 29.5%;
     bottom: 29%;
     }
     
 .C3 {
-    left: 39.8%;
+    left: 40%;
     bottom: 29%;
 }
     
 .E3 {
-    left: 50.7%;
+    left: 50.5%;
     bottom: 29%;
 }
     
 .G3 {
-    left: 61.5%;
+    left: 61.2%;
     bottom: 29%;
 }    
