@@ -5,20 +5,24 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(../DI\ 001-640x480.jpg);
-    background-repeat: no-repeat;
-    background-position: 50% 0;
-    background-size: 40em;
 }
 .container {
-    width: 85.5em;
-    height: 40em;
+    width: 40%;
+    padding-top: 40%;
     position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url(../DI\ 001-640x480.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 0;
 }
 
 div {
-    width: 4%;
-    height: 8%;
+    width: 8%;
+    padding-top: 8%;
     margin: auto;
     border-radius: 50%;
     position: absolute;
@@ -26,128 +30,75 @@ div {
 
 .white {
     background: #fff;
+    transform: translate(-50%, -50%);
 }
 
 .black {
     background: #000;
+    transform: translate(-50%, -50%);
 }
 
-.B8 {
-    left: 34.7%;
-    top: 6.5%;
+.left-a {
+    left: 10%;
 }
 
-.D8 {
-    left: 45.3%;
-    top: 6.5%;
+.left-b {
+    left: 22%;
 }
 
-.F8 {
-    left: 55.9%;
-    top: 6.5%;
+.left-c {
+    left: 33%;
 }
 
-.H8 {
-    left: 66.5%;
-    top: 6.5%;
+.left-d {
+    left: 44%;
 }
 
-.A7 {
-    left: 29.5%;
-    top: 18%;
+.left-e {
+    left: 55%;
 }
 
-.C7 {
-    left: 40%;
-    top: 18%;
+.left-f {
+    left: 67%;
 }
 
-.E7 {
-    left: 50.5%;
-    top: 18%;
+.left-g {
+    left: 78%;
 }
 
-.G7 {
-    left: 61.2%;
-    top: 18%;
+.left-h {
+    left: 90%;
 }
 
-.B6 {
-    left: 34.7%;
-    top: 29%;
+
+.top-1 {
+    top: 90%;
 }
 
-.D6 {
-    left: 45.3%;
-    top: 29%;
+.top-2 {
+    top: 78%;
 }
 
-.F6 {
-    left: 55.9%;
-    top: 29%;
+.top-3 {
+    top: 67%;
 }
 
-.H6 {
-    left: 66.5%;
-    top: 29%;
+.top-4 {
+    top: 56%;
 }
 
-.A1 {
-    left: 29.5%;
-    bottom: 6.8%;
+.top-5 {
+    top: 44%;
 }
 
-.C1 {
-    left: 40%;
-    bottom: 6.8%;
+.top-6 {
+    top: 33%;
 }
 
-.E1 {
-    left: 50.6%;
-    bottom: 6.8%;
+.top-7 {
+    top: 22%;
 }
 
-.G1 {
-    left: 61.2%;
-    bottom: 6.8%;
+.top-8 {
+    top: 10%;
 }
-
-.B2 {
-    left: 34.8%;
-    bottom: 18%;
-}
-
-.D2 {
-    left: 45.3%;
-    bottom: 18%;
-}
-
-.F2 {
-    left: 55.9%;
-    bottom: 18%;
-}
-
-.H2 {
-    left: 66.5%;
-    bottom: 18%;
-}
-
-.A3 {
-    left: 29.5%;
-    bottom: 29%;
-    }
-    
-.C3 {
-    left: 40%;
-    bottom: 29%;
-}
-    
-.E3 {
-    left: 50.5%;
-    bottom: 29%;
-}
-    
-.G3 {
-    left: 61.2%;
-    bottom: 29%;
-}    
